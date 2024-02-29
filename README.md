@@ -21,3 +21,5 @@ memory than 3DCNN as it needs more epochs to get high accuracy. Lastly, the mode
 was deployed into a web application to test with real-world data, but real-world environments’ complexity reduces the model performance. This challenge leads to further
 research questions for future work. However, the project can be the prototype and
 initialised the idea of a sign language recognition task.
+
+Refference dataset: https://paperswithcode.com/dataset/wlasl
