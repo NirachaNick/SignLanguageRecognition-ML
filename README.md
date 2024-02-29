@@ -21,5 +21,10 @@ memory than 3DCNN as it needs more epochs to get high accuracy. Lastly, the mode
 was deployed into a web application to test with real-world data, but real-world environments’ complexity reduces the model performance. This challenge leads to further
 research questions for future work. However, the project can be the prototype and
 initialised the idea of a sign language recognition task.
+## LRCN model
+![LRCNmodel](https://github.com/NirachaNick/SignLanguageRecognition-ML/assets/123958341/80fd1667-0c2e-4b64-9ed3-999723ce64bd)
+## 3DCNN model
+![3DCNNmodel1](https://github.com/NirachaNick/SignLanguageRecognition-ML/assets/123958341/437cb861-2bb6-441a-a178-f487d3df89a9)
 
 Refference dataset: https://paperswithcode.com/dataset/wlasl
+
