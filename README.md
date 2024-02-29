@@ -1,4 +1,4 @@
-# SignLanguageRecognition-ML
+# SignLanguageRecognition by using LRCN and 3DCNN
 Dissertation: Sign Language Recognition Application by Using Machine Learning Methods (LRCN and 3DCNN)
 Nowadays, many people with hearing impairments in our society use sign language as a
 communication tool. This project aims to bridge the communication gap between sign
